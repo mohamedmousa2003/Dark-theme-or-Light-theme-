@@ -1,6 +1,6 @@
 # theme
 
-A new Flutter project.
+Managing Light or Dark Theme using Provider and SharedPreferences
 
 ## Getting Started
 
